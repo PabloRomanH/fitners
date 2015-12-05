@@ -9872,6 +9872,15 @@ div.resultcontactdisabled {
     text-align: center;
 }
 
+.modal-header h4 {
+    display: inline;
+}
+
+.modal-header a {
+    color: #5cb85c;
+    margin-left: 1em;
+}
+
 .modal-footer span {
     margin-right: 1em;
     color: #888;
